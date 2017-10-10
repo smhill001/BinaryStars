@@ -1,0 +1,6 @@
+x=read_bmp('C:\Astronomy\Images\2010\01\11\Castor_Rot1_120sec_0000_Ref50frames_Stack600_Wavelets_2x.bmp')
+y=reform(x(1,*,*),1280,960)
+xtv,y
+cntrd,y,630,495,xcen,ycen
+5
+print,xcen,ycen

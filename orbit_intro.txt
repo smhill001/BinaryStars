@@ -1,0 +1,264 @@
+                                                                                                                                    
+                FOURTH CATALOG OF ORBITS OF VISUAL BINARY STARS                                                                     
+                                                                                                                                    
+                          C.E. Worley and W.D. Heintz                                                                               
+                                                                                                                                    
+                                                                                                                                    
+                                 INTRODUCTION                                                                                       
+                                                                                                                                    
+       This catalog continues the series of catalogs of visual binary orbits                                                        
+previously published by W.S. Finsen (1934, 1938), C.E. Worley (1963), and                                                           
+jointly by Finsen and Worley (1970). The combination of the independent resour-                                                     
+ces and opinions of two authors results, we believe, in a more complete, accu-                                                      
+rate, and consistent catalog.                                                                                                       
+                                                                                                                                    
+       The Finsen-Worley Catalog, supplemented by all subsequently published                                                        
+orbits known to us, formed the basis for the present compilation. During the                                                        
+past decade, practically all stars having visual orbits have been observed,                                                         
+often repeatedly, either by us with micrometers at Washington, Swarthmore, and                                                      
+Cerro Tololo, or by H. A. McAlister with the speckle interferometer at Kitt                                                         
+Peak. This new data, combined with the extensive data now resident in the ob-                                                       
+servation catalog maintained at the U. S. Naval Observatory, provides a firm                                                        
+basis for judging the quality of the visual orbits. In each instance, orbital                                                       
+residuals were computed for all significant observations by the aid of a desk-                                                      
+top computer. In numerous cases we have investigated whether the most recent                                                        
+elements were satisfactory, and whether they provided a distinct improvement                                                        
+over earlier and also satisfactory solutions; orbits predating the entries in                                                       
+the 1970 catalog were also frequently examined. Nevertheless, there remain                                                          
+cases where it has been impossible to choose between several orbits of the same                                                     
+pair; in such instances both orbits are listed.                                                                                     
+                                                                                                                                    
+       The spread of hand calculators and desk-top computers has obviated the                                                       
+need for publication of the Thiele-Innes constants, which are therefore no                                                          
+longer listed. As in the Finsen-Worley catalog, we continue to list astrometric                                                     
+solutions, but we have now restricted their inclusion to those cases considered                                                     
+relatively certain. Dubious astrometric solutions, along with other orbits re-                                                      
+jected for various reasons, are listed in a brief "for-the-record" list in                                                          
+Table 1, which also tabulates the reason for rejection, R. In particular, per-                                                      
+iods over 4000 years and hyperbolic solutions have been rejected as being too                                                       
+unreliable. The few parabolae which had remained in the 1970 catalog have been                                                      
+replaced by elliptic elements. Except for five Hopmann orbits for which refer-                                                      
+ences are given in the table, all references to rejected orbits may be found in                                                     
+the Finsen-Worley catalog.                                                                                                          
+                                                                                                                                    
+                             Table 1.                                                                                               
+                                                                                                                                    
+                 ORBITS REJECTED FROM THE CATALOG                                                                                   
+                                                                                                                                    
+ R.A. Dec.   ADS  Name            R  Author                                                                                         
+                                                                                                                                    
+00307+2927  497   STF 42          1  J.Hopmann, 1967.                                                                               
+01226+8846  1477  Alpha UMi       7  A.Wyller, 1957.                                                                                
+01315-3025        HJ 3447         3  S.Arend,R.F.Mourao, 1968.                                                                      
+02208+6657  1860  Iota Cas Aa-C   1  J.Hopmann,  1960.                                                                              
+02472+5251  2202  Tau Per         7  P.van de Kamp,S.Andersen, 1969.                                                                
+04298+4104        58 Per          8  A.Wyller, 1957.                                                                                
+04548+4341        Epsilon Aur     7  K.Strand, 1959.                                                                                
+06491+3018  5570  STF 981         2  J.Hopmann: Mitt. Wien Nr. 7, 1971.                                                             
+08032+3231  6623  STF 1187        2  J.Hopmann: Mitt. Wien Nr. 7, 1971.                                                             
+09365+7632        Ross 434        8  H.Alden, 1951.                                                                                 
+10142+2022        +20 2465        8  D.Reuyl, 1943.                                                                                 
+10579+3638        +36 2147        8  S.Lippincott, 1960.                                                                            
+11056+3100  8083  STT 231         1  J.Hopmann, 1960.                                                                               
+11084+2041  8094  STF 1517        2  J.Hopmann: Mitt. Wien Nr. 5, 1970.                                                             
+11217+0333  8162  STF 1540        2  J.Hopmann, 1960.                                                                               
+12106-2248  8481  BU 920          3  A.Bespalov, 1961.                                                                              
+12255+1016  8575  STF 1647        2  J.Hopmann, 1964.                                                                               
+13118+1733  8841  BU 800          1  J.Hopmann, 1960.                                                                               
+13499+1854        Eta Boo         7  Z.Daniel,K.Burns, 1939.                                                                        
+14516-2058  9446  H 28            1  J.Hopmann, 1967.                                                                               
+14542-2136        -21 4009        8  H.Alden, 1938.                                                                                 
+14560-0342  9476  A 14            5  J.Hopmann: Mitt. Wien Nr. 14, 1973.                                                            
+16086+1348  9969  STF 2021        2  J.Hopmann, 1964.                                                                               
+17334+1837        Ci 18,2347      8  G.Bieger, 1964.                                                                                
+17370+6826        Ci 18,2354      9  S.Lippincott, 1967.                                                                            
+17529+0425        Ci 20,1069      9  P.van de Kamp, 1969.                                                                           
+18140-6132        Gale 2          7  H.Alden, 1946.                                                                                 
+19039-1958  12096 B 427           6  N.Voronov, 1934.                                                                               
+20154-1506        Beta(2) Cap     9  H.Alden, 1936.                                                                                 
+21068-1524  14736 H 47            2  J.Hopmann: Mitt. Wien Nr. 17, 1974.                                                            
+21514+3821  15454 A 1449          4  P.Baize                                                                                        
+21538+6309        VV Cep          7  L.Fredrick, 1960.                                                                              
+_________________________________________________________________________                                                           
+                                                                                                                                    
+              KEY TO REASONS FOR REJECTION                                                                                          
+                                                                                                                                    
+     R = 1    Hyperbolic orbit.                                                                                                     
+         2    Period over 4000 years.                                                                                               
+         3    Orbits completely faulty and irreparable.                                                                             
+         4    Rescinded by the author (omitted from publication).                                                                   
+         5    Optical pair.                                                                                                         
+         6    Probably not double.                                                                                                  
+         7    Amplitude below noise level.                                                                                          
+         8    Not confirmed by subsequent observations.                                                                             
+         9    Objects still suspected to be binary by some, but no even                                                             
+              approximately reliable or complete elements yet available.                                                            
+_________________________________________________________________________                                                           
+                                                                                                                                    
+                                                                                                                                    
+       Combined magnitudes were selected in the following order of preference:                                                      
+              (a) Photoelectric V magnitudes taken from various sources.                                                            
+              (b) Photometric visual magnitudes (two-decimal) from the Henry                                                        
+                  Draper Catalogue.                                                                                                 
+              (c) Durchmusterung magnitudes corrected to the Harvard system.                                                        
+              (d) Uncorrected Durchmusterung magnitudes, plus a few values from                                                     
+                  miscellaneous sources.                                                                                            
+                                                                                                                                    
+       Because the binaries included in this catalog are generally close pairs,                                                     
+determination of individual photoelectric magnitudes for the components is im-                                                      
+possible in most instances. For these cases one must know the difference of                                                         
+magnitude in order to assign the individual magnitudes. In many cases photo-                                                        
+metric determinations of magnitude difference were found, obtained by a variety                                                     
+of techniques. In other cases visual estimates were used, emphasizing, where                                                        
+possible, recent estimates made by experienced observers using large tele-                                                          
+scopes.                                                                                                                             
+                                                                                                                                    
+                                                                                                                                    
+       The magnitudes so derived are given in the catalog as follows:                                                               
+              (a) If there are individual photoelectric magnitudes, or a photo-                                                     
+                  electric combined magnitude and photometric difference of                                                         
+                  magnitude, then two-decimal values are given for both com-                                                        
+                  ponents.                                                                                                          
+              (b) In all other cases, one-decimal values are given.                                                                 
+                                                                                                                                    
+       Spectral types are given in the following order of preference:                                                               
+              (a) MK (Yerkes) types, taken from various sources. Values follow-                                                     
+                  ed by an asterisk have been classified by Christy and Walker                                                      
+                  (1969). For these cases the procedure was to observe the com-                                                     
+                  posite spectrum and to infer the individual spectral types                                                        
+                  from the known magnitude difference. While this procedure is                                                      
+                  open to several objections, the ordinary practice of quoting                                                      
+                  only a single spectral type is also flawed.                                                                       
+              (b) Mt. Wilson types.                                                                                                 
+              (c) Henry Draper types.                                                                                               
+                                                                                                                                    
+                                                                                                                                    
+       The orbital elements are listed according to the definitions set forth                                                       
+in the Introduction to the 1970 catalog, or, for instance, by Heintz (1978). In                                                     
+a few cases the elements given by the original author have been rewritten in                                                        
+compliance with these conventions. Also in a few cases, the elements have been                                                      
+rounded when the author gave more than three decimals in the dynamical, and                                                         
+more than two in the angular elements; otherwise the decimals are as given in                                                       
+the original paper, and therefore their number has no relation to the degree of                                                     
+reliability.                                                                                                                        
+                                                                                                                                    
+       The orbits have been graded into five classes on a scale of 1                                                                
+(definitive) to 5 (indeterminate). The grade assigned to an orbit takes into                                                        
+account the length and curvature of the observed arc, the number, distribution,                                                     
+and consistency of the observations, and (most importantly) also the size and                                                       
+distribution of the residuals. An approximate guide to the criteria used is                                                         
+given below:                                                                                                                        
+                                                                                                                                    
+                                                                                                                                    
+Grade 1  Definitive       Well-distributed coverage exceeding one revolution;                                                       
+                          no revisions expected except for minor adjustments.                                                       
+      2  Good             Most of a revolution, well observed, with sufficient                                                      
+                          curvature to give considerable confidence in the de-                                                      
+                          rived elements. No major changes in the elements                                                          
+                          likely.                                                                                                   
+      3  Reliable         At least half of the orbit defined, but the lesser                                                        
+                          coverage (in number or distribution) or consistency                                                       
+                          of the data leaves the possibility of larger errors                                                       
+                          than in Grade 2.                                                                                          
+      4  Preliminary      Individual elements entitled to little weight, and                                                        
+                          may be subject to substantial revisions. The quantity                                                     
+                          (3loga - 2logP) should not be grossly erroneous. This                                                     
+                          class contains: orbits with less than half the ellip-                                                     
+                          se defined; orbits with weak or inconsistent data;                                                        
+                          orbits showing deteriorating representation of recent                                                     
+                          data. Many of the Grade 4 cases could be called pre-                                                      
+                          mature, as higher-grade solutions may be attainable                                                       
+                          with additional data before long.                                                                         
+      5 Indeterminate     The elements may not even be approximately correct.                                                       
+                          The observed arc is usually too short, with little                                                        
+                          curvature, and frequently there are large residuals                                                       
+                          associated with the computation.                                                                          
+                                                                                                                                    
+       It may be noted that, aside from the period, other elements have a se-                                                       
+lective influence on the grade, in particular high eccentricities and/or in-                                                        
+clinations which limit the positionally observable arc, thus rendering a high-                                                      
+grade solution more difficult to obtain.                                                                                            
+                                                                                                                                    
+                                                                                                                                    
+       In cases where the difference of magnitude is small and there is doubt                                                       
+regarding the quadrant interpretation, so that two or more widely differing                                                         
+sets of elements are possible, the ambiguity is indicated by the symbol A pre-                                                      
+ceding the grade. For example, for ADS 450 (A 111) two solutions have been of-                                                      
+fered with periods of 10.755 and 21.30 years, each graded A3, and each grade                                                        
+being assigned on the assumption that the ambiguity has been resolved. (Thus                                                        
+these grades do not indicate if and which one of the alternatives is more                                                           
+likely). In a few cases the possibility of ambiguity has been indicated even                                                        
+though the alternative interpretation has not been tested by orbit computation.                                                     
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                           DESCRIPTION OF THE CATALOG                                                                               
+                                                                                                                                    
+       Table 2 lists the orbit catalog, where most of the data presented are                                                        
+identifiable by the column headings. Each orbit requires two lines of data ar-                                                      
+ranged in 11 columns. A brief explanation of the items follows:                                                                     
+                                                                                                                                    
+Column 1   line 1  The Right Ascension for 2000.                                                                                    
+                2  The name(s) of the star, and the components involved.                                                            
+       2        1  The Declination for 2000. An asterisk following this value                                                       
+                   indicates a Note.                                                                                                
+                2  (Continuation of the name, or components, if necessary).                                                         
+       3        1  The ADS number.                                                                                                  
+                2  (Continuation of the name, or components, if necessary).                                                         
+       4        1  The magnitude of component A.                                                                                    
+                2  The spectral type of component A.                                                                                
+       5        1  The magnitude of component B.                                                                                    
+                2  The spectral type of component B. An asterisk following this                                                     
+                   value indicates that the spectral types have been inferred                                                       
+                   from a combined spectrum and a known magnitude difference,                                                       
+                   as previously discussed.                                                                                         
+       6        1  The period in years, P.                                                                                          
+                2  The time of periastron passage, T.                                                                               
+       7        1  The semi-major axis, a, in seconds of arc.                                                                       
+                2  The eccentricity, e.                                                                                             
+       8        1  The inclination, i.                                                                                              
+                2  The longitude of periastron,   , reckoned from the node as                                                       
+                   listed.                                                                                                          
+       9        1  The node,   . An identified ascending node is indicated by                                                       
+                   an asterisk following the value.                                                                                 
+                2  The equinox (if any) to which the node refers.                                                                   
+       10       1  The grade, as previously discussed, followed by the date of                                                      
+                   the last observation used in the computation, when known.                                                        
+                2  Inclusive dates for which an ephemeris is given by the                                                           
+                   author.                                                                                                          
+       11       1  The computer of the orbit.                                                                                       
+                2  The reference.                                                                                                   
+                                                                                                                                    
+                                                                                                                                    
+       The closing date for this catalog is 1 July, 1982. It contains 928 or-                                                       
+orbits of 847 systems (counting triples as two systems). There are 23 orbits of                                                     
+unresolved systems. Of the non-ambiguous orbits, 62 are grade 1, 118 grade 2,                                                       
+263 grade 3, 266 grade 4, and 131 grade 5.                                                                                          
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                             ACKNOWLEDGEMENTS                                                                                       
+                                                                                                                                    
+       We are particularly indebted to G.G. Douglass and J. Woodbury for their                                                      
+important programming help on this project. We also owe a debt of gratitude to                                                      
+Dr. Wayne H. Warren of the National Space Science Data Center, who interrogated                                                     
+his extensive data files to provide us with many magnitudes and spectral types.                                                     
+The second author acknowledges support by the National Science Foundation.                                                          
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                REFERENCES                                                                                          
+                                                                                                                                    
+Christy, J.W., Walker, R.L.       1969  Pub. Ast. Soc. Pacific 81, 643.                                                             
+Finsen, W.S.                      1934  Union Obs. Circ. 4, 23.                                                                     
+                                  1938  Ibid. 4, 466.                                                                               
+Finsen, W.S., Worley, C.E.        1970  Republic Obs. Circ. 7, 203.                                                                 
+Heintz, W.D.                      1978  Double Stars. D. Reidel Co., Dordrecht.                                                     
+Worley, C.E.                      1963  Pub. U.S. Naval Obs., 18, pt.3.                                                             
+                                                                                                                                    
+         In addition to the orbital data from the original orbit catalog,
+ephemerides for one year intervals have been provided.  The orbit catalog
+is found in wds_orbits.dat.

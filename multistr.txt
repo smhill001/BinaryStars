@@ -1,0 +1,646 @@
+                             MULTIPLE STARS
+By Bill Anderson, Steve Coe, A.J. Crayon, David Fredericksen and Ken Sikes
+
+This list of about 600 multiple stars is composed of mostly doubles from
+Burnham's. Some of the stars are from articles in Deep Sky or Star and Sky
+magazines. As a group we enjoy easily split doubles with color contrast and
+that is the basis or much of the data.  Because we were not concerned about
+the precision mags, seperations or PA's, we rounded off much of the precision
+data given in some of the sources.  If you are looking for scientifically
+precise data, this is not the list to use.  However, if you are looking for a
+good starting list which includes lots of beautiful stars, this is a good
+beginning.  All the positions are for equinox 2000.  If you find an error in
+the data, please write or call and let us know of the problem.
+
+You may make a database out of this list by copying this file and deleting the
+introduction and calling it into your database manager as a text file.  Or you
+can use a block move feature in your word processor.  Either way, don't chop
+off the NOTES section which is not on the screen at this moment.  The NOTES
+are scrolled off the screen to the right of the main body of data.
+
+Here are the abbreviations used in the NAME column:
+ה = F.G.W. Struve      Oה = Otto Struve the Elder     Oהה = Otto Struve the Younger
+HN = Wm. Herschel      h = John Herschel              ב = S.W. Burnham
+JAC = R. Jonckheere    Sei = Scheiner                 Brs = Brisbane
+Li = Lalande           Gls = Gilliss
+
+Several astronomers who have short names and only appear in the data a few
+times have their name spelled out.  Such as:  Innes, South, Howe or Aitken.
+There are a few abbreviations for names which we cannot find, but the stars
+look nice so we kept them in the data.
+
+The abbreviations in the NOTES list for star colors are as follows: B=Blue,
+G=Green, L=Lilac, O=Orange, P=Purple, R=Red, T=Topaz, V=Violet, W=White and
+Y=Yellow.  Yes, we know that human eyes are not supposed to see such colors in
+stars.  Most of the colors are very subtle, but we see them and they are fun
+to observe.
+
+
+NAME                CON     RA       DEC   MAGNITUDES      SEP (SEC)   PA (DEG)           NOTES
+
+Oה 514              AND   00 04.4   +42.0  7/9.5           5           168
+h 1947              AND   00 16.3   +43.6  6.5/9           9           76
+Groombridge 34      AND   00 18.1   +44.0  8/10.5          39          56              RED DWARF
+ה 24                AND   00 18.5   +26.1  7.6/8.4         5           248             NICE
+PI                  AND   00 36.9   +33.8  4.5/9           36          174             W/B
+ה 79                AND   01 00.0   +44.8  6/7             8           193
+ה 108               AND   01 18.8   +37.4  7/10            6           62
+GAMMA               AND   02 03.9   +42.3  2.5/5           10          63              Y/B
+59                  AND   02 10.8   +39.0  6.5/7           17          35              Y/B
+ה 3042              AND   23 51.8   +37.9  7/7             5           88
+ה 3050              AND   23 59.5   +33.8  6/6             1           277
+ZETA                ANT   09 30.7   -31.9  6/6.5           8           212
+DELTA               ANT   10 29.6   -30.7  6/9.5           11          226
+4                   AQR   20 51.4   -05.6  6.5/7.5         1           3
+12                  AQR   21 04.0   -05.8  5.5/7.5         3           192
+ה 2809              AQR   21 37.6   -00.4  6/8.5           31          163
+ה 2838              AQR   21 54.6   -03.4  6/9             18          184             IN BEAUTIFUL STREAM OF STARS
+29                  AQR   22 02.4   -17.0  7/7             4           244
+41                  AQR   22 14.3   -21.1  6/7.5           5           114             Y/B
+53                  AQR   22 26.5   -16.7  6.5/7           4           325
+ZETA                AQR   22 28.8   +00.0  4.5/4.5         2           249             W/W
+69                  AQR   22 47.7   -14.0  6/9             25          119             W/R
+PSI-91              AQR   23 15.8   +09.7  4.5/8.5         50          312             Y/B
+94                  AQR   23 19.0   -13.4  5/7             13          350             RW/B
+96                  AQR   23 19.4   -05.1  6.5/11          11          20
+107                 AQR   23 46.0   -18.7  5.5/6.5         7           137             W/B
+5                   AQL   18 46.5   -00.9  5.5/7.5         13          121             W/B
+ה 2404              AQL   18 50.8   +11.0  6/7             4           183
+11                  AQL   18 59.1   +13.7  6/9             18          286
+15                  AQL   19 04.9   -04.0  5.5/7           38          209             YW/RP
+ה 2449              AQL   19 06.4   +07.2  7/8             8           291
+h 881               AQL   19 18.1   -05.4  7/10/11         33/16       341/62          O/B/B
+23                  AQL   19 18.5   +01.1  5.5/9.5/13      3/11        5/66
+ה 2497              AQL   19 20.0   +05.6  8.0/9.1         30          357             FINE
+ה 2532              AQL   19 30.2   +02.9  6/10            34          5               O/W
+PI                  AQL   19 48.8   +11.8  6/7             1           111             YW/YW
+57                  AQL   19 54.6   -08.3  5/6             36          170             Y/G
+BETA                AQL   19 55.3   +06.4  4/11.5          13          7
+ה 2628              AQL   20 07.8   +09.4  6/8             4           341             Y/P
+ה 2644              AQL   20 12.5   +00.9  7/7.5           3           206
+1                   ARI   01 50.2   +22.2  6/7.5           3           166             Y/B
+ה 178               ARI   01 52.0   +10.8  8.5/8.5         3           201             W/W
+GAMMA               ARI   01 53.5   +19.3  4.5/4.5         8           0               W/W: MATCHED
+LAMBDA              ARI   01 57.9   +23.5  5/7.5           37          46              YW/B
+30                  ARI   02 37.0   +24.6  6/7             39          274             W/B
+33                  ARI   02 40.7   +27.1  6/8.5           29          0               T/B
+PI                  ARI   02 49.3   +17.5  5/8.5           3           120
+Oה 46               ARI   02 50.0   +30.5  7/10            5           74
+EPSILON             ARI   02 59.3   +21.3  6/6             1           203
+ה 394               ARI   03 27.9   +20.5  7/8             7           162
+OMEGA               AUR   04 59.2   +37.9  5/8             5           359
+5                   AUR   05 00.3   +39.4  6/9.5           3           267
+ה 644               AUR   05 10.3   +37.3  6.5/7           2           221             COLOR CONTRAST
+14                  AUR   05 15.5   +32.7  5/7             15          226             Y/O
+Sei 136             AUR   05 16.3   +34.3  6.0             8           355
+ה 698               AUR   05 25.2   +34.8  6.5/7.5         31          346             Y/B
+ה 718               AUR   05 32.4   +49.4  7/7             8           75
+26                  AUR   05 38.6   +30.5  5.5/8           12          267             Y/B
+THETA               AUR   05 59.7   +37.2  3/7.5           3           318             BW/BW
+41                  AUR   06 11.6   +48.7  5/7             8           356             W/L
+ה 872               AUR   06 15.7   +36.2  6/7             11          217             Y/L
+Oה 147              AUR   06 32.3   +38.1  7/8.5           43          73              W/W/W
+1                   BOO   13 40.7   +19.9  6/9             5           137             B/B
+KAPPA               BOO   14 13.5   +51.8  4.5/6.5         13          236             W/B
+IOTA                BOO   14 16.2   +51.4  5/7.5           39          33              Y/W
+ה 1835              BOO   14 23.4   +08.5  5.5/7           6           192
+ה 1858              BOO   14 33.7   +35.6  7/8             3           36              FAINT
+PI                  BOO   14 40.8   +16.4  5/6             6           108             W/W
+ZETA                BOO   14 41.2   +13.8  4.5/5           1           307
+EPSILON             BOO   14 45.0   +27.1  2.5/5           3           338             Y/BG
+39                  BOO   14 49.7   +48.7  6/6.5           3           45
+XI                  BOO   14 51.4   +19.1  5/7             7           347             Y/RP
+44                  BOO   15 03.9   +47.7  5.5/6           1           312
+DELTA               BOO   15 15.5   +33.3  3.5/7.5         105         79
+MU                  BOO   15 24.5   +37.3  7/7.5           2           19              BW/R/R
+GAMMA               CAE   05 04.4   -35.5  4.5/8           3           308
+ה 362               CAM   03 16.3   +60.0  8.5/8.8         7           142             IN BEAUTIFUL WIDE GROUP
+ה 374               CAM   03 24.1   +67.5  7/8.5           11          295             W/Y
+ה 384               CAM   03 28.5   +59.9  7.9/9.1         2           270             Y/B
+ה 385               CAM   03 29.1   +60.0  4.5/9           2           162
+ה 389               CAM   03 30.0   +59.4  7/8             3           67
+ה 390               CAM   03 30.0   +55.5  5/9/10          15/110      159/172         Y/P
+ה 396               CAM   03 33.5   +58.8  6.5/8           20          243
+Oה 67               CAM   03 57.2   +61.1  5/8.5           2           45              Y/G
+ה 485               CAM   04 07.9   +62.3  7.0/7.1         18          304             IN CLUSTER NGC 1502
+1                   CAM   04 32.1   +53.9  5/6             10          308
+BETA                CAM   05 03.5   +60.5  5/9             81          208
+11-12               CAM   05 06.2   +59.0  5.5/6           180         8               B/R  IN FINE FIELD
+ה 634               CAM   05 22.6   +79.3  5/9             10          91
+19                  CAM   05 37.2   +64.1  6.5/10          1           47              Y/V
+ה 3115              CAM   05 49.1   +62.8  6.5/7.5         1           359
+29                  CAM   05 50.6   +56.9  6.5/9.5         25          131
+ה 780               CAM   05 51.0   +65.7  6.5/8           4           104
+35                  CAM   06 04.4   +51.6  6.5/8.5         39          13              Y/B
+ה 1122              CAM   07 45.9   +65.2  7/7             15          5
+ה 1127              CAM   07 47.0   +64.1  6/8/9           5/11        340/175         TRIPLE
+ה 1694              CAM   12 49.1   +83.3  5/5.5           22          326             Y/L
+ZETA                CNC   08 12.2   +17.6  5.5/6/5.5       1/6         337/83          Y/O:DIFFICULT TRIPLE
+24                  CNC   08 26.7   +24.5  7/7.5           6           47
+PHI                 CNC   08 26.8   +26.9  5.5/6           5           217
+ה 1246              CNC   08 35.9   +09.9  8.5/9.5         10          115             Y/O:NICE
+ה 1245              CNC   08 35.9   +06.6  6/7             10          25
+IOTA                CNC   08 46.7   +28.8  4.5/6.5         31          307             O/B:COLOR CONTRAST
+57                  CNC   08 54.2   +30.6  6/6.5           2           318
+66                  CNC   09 01.4   +32.3  6/8             5           137
+ה 1311              CNC   09 07.5   +23.0  6.5/7           8           200
+ה 1322              CNC   09 12.7   +16.5  8.1/8.6         2           54              ABOVE TWO WIDE PAIRS
+ה 1327              CNC   09 15.6   +27.9  8/9/9           8/27        61/19           Y/B/B
+2                   CVN   12 16.1   +40.6  5.5/8           11          260             R/B
+ה 1632              CVN   12 20.3   +37.9  6.5/9.5         10          193             Y/O
+ה 1642              CVN   12 25.0   +44.7  8.4/9.2         3           180             BEAUTIFUL FIELD
+ALPHA               CVN   12 56.1   +38.3  3/5.5           20          228             YW/YW: COR COROLI
+17                  CVN   13 10.1   +38.5  6/10            1           276
+Oה 261              CVN   13 12.0   +32.1  7/7.5           2           340
+ה 1755              CVN   13 32.3   +36.8  7/8             4           132             Y
+25                  CVN   13 37.4   +36.3  5.5/7.5         2           107
+ב 753               CMA   06 28.7   -32.3  6/7.5           1           45
+NU                  CMA   06 36.4   -18.6  6.5/8           18          262
+ALPHA               CMA   06 45.2   -16.7  -1/8            7           72              SIRIUS, GETTING TOUGHER UNTIL 1994
+h 3891              CMA   06 45.5   -31.0  6/8.5           5           223
+PI-19               CMA   06 55.7   -20.2  5.5/9.5         12          18
+MU                  CMA   06 56.1   -14.1  4.5/8           3           340             Y/B
+EPSILON             CMA   06 58.7   -29.0  1.5/8           8           161
+ב 328               CMA   07 06.6   -11.3  6/7/9           1/18        116/350
+h 3945              CMA   07 16.6   -23.3  5/7             27          55              A FAVORITE
+TAU                 CMA   07 18.7   -25.0  4.5/10          8           79              IN CLUSTER NGC 2362
+ETA                 CMI   07 28.0   +07.0  5.5/11          4           25
+ה 1126              CMI   07 40.2   +05.3  7/7.5/10.5      1/44        161/249
+ה 1149              CMI   07 49.5   +03.3  7.5/9           22          41              Y/B:NICE
+ALPHA               CAP   20 18.1   -12.5  4/9//3.5/11     45/7        221/172         Y/Y/Y/Y
+SIGMA               CAP   20 19.4   -19.1  5.5/10          56          179             O/B
+BETA                CAP   20 21.0   -14.7  3/6             205         267
+PI                  CAP   20 27.4   -18.2  5/8.5           3           148             Y/B
+OMICRON             CAP   20 29.9   -18.6  6/6.5           22          239             BW/B
+South 763           CAP   20 48.4   -18.2  6.5/7           16          294
+h 3003              CAP   20 53.0   -23.8  6/8             2           206
+ב 271               CAP   21 19.8   -26.4  7/9.5           3           255
+Oהה 254             CAS   00 01.1   +60.4  7.6/8.7         58          90              O/B: ALSO WZ CAS: FINE
+ה 3053              CAS   00 02.6   +66.1  6/7.5           15          70              Y/B:COLOR CONTRAST
+ה 3062              CAS   00 06.1   +58.5  7/8             1           259
+ה 30                CAS   00 27.2   +50.0  7/9/12          15/64       307/98
+ALPHA               CAS   00 40.4   +56.6  2.5/9/13        64/38       280/105         R/B
+ETA                 CAS   00 49.0   +57.9  3.5/7.5         11          297             Y/P
+PSI                 CAS   01 26.0   +68.2  4.5/9           23          118
+ה 131               CAS   01 33.2   +60.7  6/9             14          142             Y/B:IN M 103
+Oה 33               CAS   01 37.4   +58.7  7/8             25          76              W/Y
+ה 163               CAS   01 51.2   +64.8  6.5/8.5         35          35              Y/B
+ה 185               CAS   02 02.0   +75.5  7/8.5           1           10
+ה 191               CAS   02 03.1   +73.8  6/8.5           6           195
+IOTA                CAS   02 29.1   +67.4  4/7/8           2/7         241/114         Y/BW/BW
+6                   CAS   23 48.8   +62.3  6/8             2           199             Y/O
+SIGMA               CAS   23 58.9   +55.8  5.5/7.5         3           326             B/G :GLORIUS FIELD
+K                   CEN   13 51.8   -32.9  4.5/6           8           108
+ה 320               CEP   03 06.0   +79.4  6.5/9.5         5           232             O/B:COLOR CONTRAST
+KAPPA               CEP   20 09.0   +77.7  4/8             7           122             W/B
+ה 2780              CEP   21 11.8   +60.0  6/7             1           219             RUBY RED
+Oה 440              CEP   21 27.4   +59.7  6/10            11          179             Y/O
+BETA                CEP   21 28.6   +70.5  3.5/8           14          250             W/B
+ה 2816              CEP   21 39.0   +57.5  6/8/8           12/20       121/339         TRIPLE IN IC 1396
+ה 2840              CEP   21 52.0   +55.8  6/7             18          196             G/B
+Oה 457              CEP   21 55.5   +65.3  6.5/8.5         1           247
+ה 2873              CEP   21 58.6   +82.8  6/7             14          69
+XI                  CEP   22 03.6   +64.6  4.5/6.5         8           278             B/B
+ה 2883              CEP   22 10.7   +70.1  6/8             15          252             W/B
+ה 2893              CEP   22 12.9   +73.3  5.5/7.5         29          348             Y/W
+DELTA               CEP   22 29.2   +58.5  4/6.5           41          192             O/B
+ה 2948              CEP   22 49.6   +66.6  7/8.5           3           5
+ה 2950              CEP   22 51.3   +61.7  5.5/7           2           296
+OMICRON             CEP   23 18.5   +68.1  5.5/8           3           214
+ה 80                CET   01 00.0   +00.8  7/8             18          300             Y/B
+26                  CET   01 03.8   +01.4  6.5/9           16          253             T/L
+37                  CET   01 14.4   -07.9  5/7             50          331             Y/L
+38                  CET   01 14.8   -01.0  5.8/12          114         276
+42                  CET   01 19.8   -00.5  6/7             2           9
+ה 147               CET   01 41.8   -11.3  6/7             2           91
+ה 186               CET   01 55.9   +01.8  7/7             1           51              W/W
+66                  CET   02 12.7   -02.4  6/7.5           16          232             T/V
+OMICRON             CET   02 19.3   -03.0  VAR/10          1           123
+ה 274               CET   02 31.5   +01.1  7/7.5           14          219
+h 3511              CET   02 36.0   -24.4  7.4/9.2         15          98              Y/B
+84                  CET   02 41.2   -00.7  6/9             4           313
+GAMMA               CET   02 43.3   +03.2  3.5/6           3           295             Y/B
+ה 330               CET   02 57.2   -00.6  7.3/9.3         9           192             Y/B
+ALPHA               COL   05 39.6   -34.1  3/11            14          359
+Innes 64            COL   05 52.5   -37.6  5.5/11.5        17          250
+h 3857              COL   06 24.0   -36.7  5.5/9.5/7       13/65       256/72
+ב 755               COL   06 35.4   -36.7  6/7/11          1/21        258/301
+2                   COM   12 04.3   +21.4  6/7.5           4           237
+ה 1615              COM   12 14.1   +32.8  6/8             27          88              W/B
+Oה 245              COM   12 17.5   +28.9  5.5/10          9           280
+ה 1633              COM   12 20.6   +27.0  7/7             9           245             NICE
+12                  COM   12 22.5   +25.8  5/8/11          66/35       167/54
+ה 1639              COM   12 24.4   +25.6  6.5/7.5         1           329
+17                  COM   12 28.9   +25.9  5.5/6.5         145         251             W/L
+24                  COM   12 35.1   +18.4  5/6.5           20          271             O/B:NICE
+35                  COM   12 53.3   +21.2  5/7.5/9         1/144       29/126          L/B:NICE
+KAPPA               CRA   18 33.3   -38.8  6/6.5           21          359
+LAMBDA              CRA   18 43.8   -38.3  5/9/10          29/40       214/57
+Brs 14              CRA   19 01.1   -37.0  6.5/7           13          281             NICE
+GAMMA               CRA   19 06.4   -37.0  5/5             3           54
+ה 1950              CRB   15 29.9   +25.5  6.5/8           3           92              Y/B
+ZETA                CRB   15 39.4   +36.6  5/6             6           305             BW/G:FINE
+Oה 305              CRB   16 11.7   +33.4  6/10            5           263
+ה 2022              CRB   16 12.8   +26.7  6/9.5           2           145
+SIGMA               CRB   16 14.7   +33.9  5/6/10.5        6/71        229/85
+NU                  CRB   16 22.4   +33.8  5.4/5.3         364         165             Y/Y
+ב 920               CRV   12 15.8   -23.4  7/8             1           292
+DELTA               CRV   12 29.9   -16.5  3/8.5           24          214             Y/RP
+ב 28                CRV   12 30.1   -13.4  6.5/10          1           300
+ה 1669              CRV   12 41.3   -13.0  6/6             5           309
+Aitken 1774         CRT   11 03.2   -11.3  5.5/10          4           271
+GAMMA               CRT   11 24.9   -17.7  4/9             5           96
+JAC16               CRT   11 29.7   -24.5  5.5/9           8           80
+ה 2486              CYG   19 12.1   +49.9  6.6/8.8         8           210             IN BEAUTIFUL FIELD
+BETA                CYG   19 30.7   +28.0  3/5.5           34          54              Y/B: ALBERIO
+16                  CYG   19 41.9   +50.5  5/5             39          134
+DELTA               CYG   19 45.0   +45.1  3/6.5           2           247             W/BW
+Oהה 191             CYG   19 45.9   +35.0  6.5/8.5         39          27              O/B:NICE
+17                  CYG   19 46.4   +33.7  5/8             26          70              R/B: RICH REGION
+PSI                 CYG   19 55.7   +52.4  5/7.5           3           177
+Oה 394              CYG   20 00.2   +36.4  7/10            12          295             O/B PRETTY QUAD 34 SEC FOLLOWING
+26                  CYG   20 01.4   +50.1  5/8/11          42/9        148/74          Y/B
+h 1470              CYG   20 03.6   +38.3  7/9             29          337             Y/G  'COLORI SUPERBI'
+ה 2658              CYG   20 13.5   +53.2  7/9/10/13       6/49/34     113/208/313     Y/W/B/O
+OMICRON             CYG   20 13.6   +46.8  4/7             107         173
+ה 2671              CYG   20 18.4   +55.4  6/7.5           4           338             W/Y
+49                  CYG   20 41.0   +32.3  6/8             3           46              Y/B
+52                  CYG   20 45.7   +30.7  4/9             7           67              Y/B
+ה 2741              CYG   20 58.5   +50.5  6/7.5           2           27
+61                  CYG   21 06.3   +38.7  5.5/6           28          144             YO/YO:FAMOUS
+MU                  CYG   21 44.1   +28.7  4.5/6           2           289
+BETA                DEL   20 37.5   +14.6  4/11            42          323
+KAPPA               DEL   20 39.1   +10.1  4.5/9           214         101
+ה 2723              DEL   20 44.9   +12.3  6.5/8           1           119
+GAMMA               DEL   20 46.7   +16.2  4.5/5           10          268             Y/G
+13                  DEL   20 47.8   +06.0  5.5/9           2           194
+ה 2735              DEL   20 55.7   +04.5  6.5/7.5         2           285
+Oהה 123             DRA   13 26.7   +64.7  6.5/7           69          147             Y/B:STRIKING
+ה 2054              DRA   16 23.8   +61.7  6/7             1           353
+ETA                 DRA   16 24.0   +61.5  3/8             5           143
+16/17               DRA   16 36.2   +52.9  5/5.5/6         90/3        194/109
+20                  DRA   16 56.5   +65.0  7/7.5           1           72
+MU                  DRA   17 05.3   +54.4  5.5/5.5         2           66              W/W
+ה 2155              DRA   17 16.1   +60.7  6/9.5           10          114
+NU                  DRA   17 32.2   +55.2  5/5             62          312             W/W:EASY
+26                  DRA   17 35.0   +61.9  5.5/8           1           141
+PSI                 DRA   17 41.9   +72.2  5/6             30          15              Y/L
+40/41               DRA   18 00.1   +80.0  5.5/6           19          232             YW/YW
+39                  DRA   18 23.9   +58.8  5/8/7.5         4/89        352/21          TRIPLE
+ה 2348              DRA   18 33.9   +52.3  6/8             26          272             Y/B
+46                  DRA   18 42.6   +55.5  5.0/10.6        147         160             COLOR CONTRAST
+ה 2403              DRA   18 44.3   +61.1  6.5/9           1           270
+OMICRON             DRA   18 51.2   +59.4  4.5/7.5         34          326             YO/G
+ה 2573              DRA   19 40.2   +60.5  6/8.5           18          27              W/B
+EPSILON             DRA   19 48.1   +70.2  4/7.5           3           15              Y/B
+ה 2640              DRA   20 04.7   +63.9  6/10            5           18
+ה 2694              DRA   20 14.9   +80.6  6.5/10          4           346
+EPSILON             EQU   20 59.1   +04.3  5.5/6/7         1/11        288/70          W/B
+2                   EQU   21 02.3   +07.2  7/7             3           218             NEAT
+GAMMA-5             EQU   21 10.3   +10.2  4/11            2           268
+DELTA               EQU   21 14.5   +10.0  5.2/9.4         48          14              3 FAINT STARS IN LINE TO EAST
+THETA               ERI   02 58.3   -40.3  3.5/4.5         8           88              W/W: BRILLIANT
+RHO                 ERI   03 02.7   -07.7  5.5/10          2           77
+h 3556              ERI   03 12.4   -44.4  6.6/8.9         4           200             A MOST BEAUTIFUL OBJECT
+TAU                 ERI   03 19.5   -21.7  4/10            6           288
+F                   ERI   03 48.5   -37.6  5/5.5           8           212             W/W
+32                  ERI   03 54.3   -03.0  5/6             7           347             Y/GB:VIVID
+39                  ERI   04 14.4   -10.3  6/9             6           146
+OMICRON             ERI   04 15.4   -07.6  4.5/9.5         83          105
+ב 184               ERI   04 28.0   -21.5  6/7             2           252
+ה 570               ERI   04 35.3   -09.7  7/8             13          259
+ה 571               ERI   04 36.0   -03.6  6.5/11          18          258
+65                  ERI   04 43.6   -08.8  7/7             9           317             Y/W
+62                  ERI   04 56.4   -05.2  6/8             67          75              Y/L
+ה 649               ERI   05 08.3   -08.7  5.8/9.8         22          81              W/R
+OMEGA               FOR   02 33.8   -28.3  5/8             11          244
+ETA                 FOR   02 50.2   -35.9  6/11            5           14
+ALPHA               FOR   03 12.0   -29.0  4/7             2           294
+CHI                 FOR   03 28.2   -35.8  6.5/11          6           248
+ב 53                FOR   03 32.5   -31.8  6.5/10          1           225
+SIGMA               FOR   03 46.4   -29.3  6/11            5           180
+ה 830               GEM   06 03.4   +27.7  8/8.5/11.5      12/26       254/188         Y/O/O
+15                  GEM   06 27.8   +20.8  7/9             27          204             W/B
+20                  GEM   06 32.3   +17.8  6/7             20          210             Y/B
+EPSILON             GEM   06 43.9   +25.1  3/9             110         94              W/B
+38                  GEM   06 54.6   +13.2  5.5/7.5         7           151             Y/B:NICE
+ה 1035              GEM   07 12.0   +22.3  8.2/8.2         9           41              Y/Y:NICE
+ה 1037              GEM   07 12.8   +27.2  7/7             1           329
+LAMBDA              GEM   07 18.1   +16.5  3/10            10          33              G/B
+DELTA               GEM   07 20.1   +22.0  3.5/8           6           218             Y/RP
+ה 1083              GEM   07 25.6   +20.5  7.2/8.3         6           44              Y/G
+ALPHA               GEM   07 34.6   +31.9  2.5/3.5/9       2/73        140/164         BW/BW: CASTOR
+KAPPA               GEM   07 44.4   +24.4  4/10            7           239             O/B
+KAPPA               HER   16 08.1   +17.1  5/6             28          12              Y/R
+ה 2063              HER   16 31.8   +45.6  5.5/8           16          195             Y/W
+42                  HER   16 38.8   +48.9  4/10            26          92              Y/O
+ה 2107              HER   16 51.8   +28.7  6.5/8           1           77
+56                  HER   16 55.0   +25.7  5.5/10          18          93
+ה 2120              HER   17 04.8   +28.1  6.5/9           17          234             R/B:COLOR CONTRAST
+ALPHA               HER   17 14.7   +14.4  3/5.5           5           110             O/BG
+DELTA               HER   17 15.1   +24.8  3/8.5           9           241             GW/P
+RHO                 HER   17 23.7   +37.2  4.5/5.5         4           317             G/G:FINE
+MU                  HER   17 46.5   +27.8  3.5/9.5         34          247
+90                  HER   17 53.3   +40.0  5/8             2           116             Y/B
+95                  HER   18 01.5   +21.6  5/5             6           258             G/R:NICE
+100                 HER   18 07.8   +26.1  6/6             14          183
+ה 2289              HER   18 10.1   +16.5  6.5/7.5         1           223
+ה 1245              HYA   08 35.9   +06.6  6/7             10          25
+ה 1270              HYA   08 45.3   -02.6  6.5/7.5         5           262
+EPSILON             HYA   08 46.9   +06.4  3.5/8           3           271             Y/BG
+15                  HYA   08 51.6   -07.2  6/9             1           125
+27                  HYA   09 20.4   -09.5  5/7             229         211
+ה 1347              HYA   09 23.3   +03.5  6.5/8           21          311             W/W
+ה 1355              HYA   09 27.3   +06.3  7/7             3           345
+N                   HYA   11 32.3   -29.3  6/6             9           210
+h 4455              HYA   11 36.6   -33.6  6/8.5           3           243
+BETA                HYA   11 52.9   -33.9  4.5/5           1           8
+JAC 17              HYA   12 10.1   -34.7  6.5/8.5         3           20
+South 651           HYA   13 36.8   -26.5  5/7             11          192
+54                  HYA   14 46.0   -25.4  5/7             9           126
+31                  HYA   08 43.6   -07.2  5.5/8           78          309             Y/B
+ה 2894              LAC   22 18.9   +37.8  6/8             16          194             W/B
+ה 2906              LAC   22 26.7   +37.5  7/11            4           3
+Roe 47              LAC   22 32.4   +39.8  6/10/10.5/10    43/32/106   158/334/216
+8                   LAC   22 35.8   +39.7  6/6.5/10.5/9.5  22/48/81    186/169/145
+ה 2942              LAC   22 44.1   +39.5  7/9             3           273
+h 975               LAC   22 55.7   +36.4  5.5/8.5         51          243
+KAPPA               LEO   09 24.7   +26.2  5/10.5          2           208             Y/B
+3                   LEO   09 28.5   +08.2  6/10.5          25          80
+ה 1360              LEO   09 30.5   +10.6  8.3/8.6         14          242             B/G
+6                   LEO   09 32.0   +09.7  6/9             37          75              Y/B
+OMICRON             LEO   09 41.2   +09.9  4/10            85          44
+ה 1399              LEO   09 57.1   +19.8  7.7/9.6         31          175             Y/G
+ALPHA               LEO   10 08.4   +12.0  1.5/8           177         307             REGULUS
+Oה 215              LEO   10 16.2   +17.8  7/7             1           184
+ה 1527              LEO   11 19.1   +14.3  6.9/8.1         2                           Y/G
+GAMMA               LEO   10 19.9   +19.8  2.5/3.5         4           123             Y/G
+49                  LEO   10 35.0   +08.6  6/8.5           2           158
+54                  LEO   10 55.6   +24.7  4.5/6.5         7           110             GW/B
+ה 1527              LEO   11 19.0   +14.3  7/8             2           28              W/B
+ה 1529              LEO   11 19.4   -01.7  7/8             10          252             YW/W
+IOTA                LEO   11 23.9   +10.5  4/6.5           1           205
+83                  LEO   11 26.9   +03.0  6.5/7.5/10      29/90       150/188
+88                  LEO   11 31.8   +14.4  6.5/8.5         15          326             Y/B
+90                  LEO   11 34.7   +16.8  6/7.5/9         3/63        209/235         W/B
+ה 1374              LMI   09 41.4   +39.0  7.3/8.6         3           301             Y/B
+IOTA                LEP   05 12.3   -11.8  4.5/10.5        13          335
+KAPPA               LEP   05 13.2   -12.9  4.5/8           3           360             Y/B
+South 476           LEP   05 19.3   -18.5  6.5/6.5         39          18              SUPERB STAR
+h 3570              LEP   05 20.4   -21.2  4.7/8.5         4           282             BEAUTIFUL
+h 3752              LEP   05 21.9   -24.8  5.5/6.5/9       3/59        97/106
+BETA                LEP   05 28.2   -20.8  3/11            3           330
+ALPHA               LEP   05 32.7   -17.9  3/11            36          156             Y/W
+Harvard 78          LEP   05 39.7   -20.5  7.5/8.5         12          124
+GAMMA               LEP   05 44.5   -22.5  3.5/6           95          351             Y/R
+ב 94                LEP   05 49.6   -14.5  6/9.5           2           173
+ה 1837              LIB   14 24.7   -11.7  6.5/8.5         1           285
+ב 225               LIB   14 25.4   -19.9  6/6             35          295
+MU                  LIB   14 49.3   -14.2  5.5/6.5         2           355
+ALPHA               LIB   14 50.9   -16.0  3/5             231         314
+33                  LIB   14 57.5   -21.4  5.7/8.0         23          303             Y/Y
+IOTA                LIB   15 12.3   -19.8  4.5/9.5/10      59/2        111/17          Y/RP/RP
+h 4783              LIB   15 31.7   -20.2  6/9             11          282
+Li 123              LIB   15 33.2   -24.5  7/7             9           301
+ה 1962              LIB   15 38.7   -08.8  6.5/6.5         12          189             MATCHED: STRIKING OBJECT
+h 4690              LUP   14 37.3   -46.1  6.2/9.2         19          25              Y/B: VERY BEAUTIFUL
+Howe 76             LUP   15 21.4   -38.2  6.5/8.5         6           124
+ZETA                LUP   15 56.9   -34.0  5.3/5.8         10          49              SPLENDID
+ETA                 LUP   16 00.1   -38.4  3.5/7.5         15          21
+12                  LYN   06 46.2   +59.4  5.5/6/7.5       2/9         101/308         TRIPLE-FINE
+ה 958               LYN   06 48.2   +55.7  6/6             5           257
+ה 1001              LYN   07 03.2   +54.2  7/9             9           66              Y/O
+ה 1009              LYN   07 05.7   +52.7  7/7             4           150
+19                  LYN   07 22.9   +55.3  5.5/6.5         15          315             EASY
+ב 758               LYN   07 28.8   +48.2  6/10            17          94
+Oהה 93              LYN   08 24.7   +42.0  6/8             76          168             Y/B
+ה 1282              LYN   08 50.7   +35.1  7/7             4           278
+ה 1333              LYN   09 18.5   +35.4  6.5/7           2           49
+38                  LYN   09 18.9   +36.8  4/6.5           3           228             G/B
+ה 2349              LYR   18 36.6   +33.4  5.5/11          7           203             BW/O
+ALPHA               LYR   18 36.9   +38.7  0/10            63          173             VEGA DISTANT COMPANION
+ה 2372              LYR   18 42.1   +34.7  6.5/8           25          83
+EPSILON             LYR   18 44.4   +39.7  5.5/6.5//5/5.5  208//3/2    173//359/98     FAMOUS DOUBLE-DOUBLE
+ZETA                LYR   18 44.7   +37.7  4.5/5.5         44          150             T/G
+BETA                LYR   18 50.0   +33.4  3.5/7           47          149
+DELTA               LYR   18 53.7   +37.0  4/5             618         295             COLOR CONTRAST: FIELD GLASS PAIR
+Oה 525              LYR   18 54.8   +34.0  6/10/7.5        2/45        128/350         COLOR CONTRAST: NEAR M 57
+17                  LYR   19 07.4   +32.5  6/10            4           308
+ה 2470              LYR   19 08.7   +34.8  6.5/8           14          271
+ה 2474              LYR   19 09.0   +34.6  6.5/8           17          262
+ETA                 LYR   19 13.7   +39.2  4/8             28          83
+THETA               LYR   19 16.3   +38.2  5/10            100         71
+h 5218              MIC   20 45.4   -30.5  6.6/11.0        10          192             VERY BEAUTIFUL OBJECT
+ALPHA               MIC   20 50.0   -33.8  5/9.5           21          166
+3                   MON   06 01.9   -10.6  5.5/9           2           353
+EPSILON             MON   06 23.8   +04.6  4.5/6.5         13          27              Y/B: ALSO 8 MON: IN GRAND FIELD
+BETA-11             MON   06 28.8   -07.0  5/5.5/6         7/3         132/105         TRIPLE:ALL YELLOW-WHITE
+ה 921               MON   06 31.2   +11.3  6/8             16          3
+15                  MON   06 41.0   +09.9  4.7/7.5         3           213             IN OPEN CLUSTER NGC 2264
+ה 953               MON   06 41.1   +09.0  7/7.5           7           330
+ה 987               MON   06 54.2   -05.9  7/7.5           1           172
+ה 1112              MON   07 32.1   -08.9  7.5/10          24          113
+ה 1183              MON   08 06.4   -09.2  5.5/7.5         31          326
+ZETA                MON   08 08.6   -02.9  5/8.5/10.5      66/32       245/105
+RHO                 OPH   16 25.6   -23.4  5/6/8/8         3/152/156   344/0/253
+19                  OPH   16 47.1   +02.1  6/9.5           23          89
+36                  OPH   17 15.4   -26.6  5.5/5.5         4           163             Y/R
+OMICRON             OPH   17 18.1   -24.3  6/7             11          355             O/B:  ALSO 39 OPH
+ה 2166              OPH   17 27.8   +11.4  7.5/8           27          283
+54                  OPH   17 34.4   +13.2  6.5/11          22          71              Y/O
+61                  OPH   17 44.5   +02.6  6/6.5           21          93
+TAU                 OPH   18 03.1   -08.2  5/5.5           2           271
+70                  OPH   18 05.4   +02.5  4/6             3           72              Y/RO:COLOR CONTRAST
+ה 2276              OPH   18 05.7   +12.0  6/7             7           258
+Oהה 55              ORI   04 49.2   +05.2  8/9             38          16              R/B
+ה 627               ORI   05 00.4   +03.7  6.5/7           21          260             Y/G
+14                  ORI   05 07.9   +08.5  6/6.5           1           71
+RHO                 ORI   05 13.3   +02.9  4.5/8.5         7           63              Y/B
+BETA                ORI   05 14.5   -08.2  0/7             9           202             B/W:RIGEL DISTANT COMPANION
+23                  ORI   05 22.8   +03.5  5/7             32          28              W/W
+ETA                 ORI   05 24.5   -02.4  4/5             2           77              W/W:D
+PSI                 ORI   05 26.8   +03.1  5/11            3           324             Y/Y
+31                  ORI   05 29.7   -01.0  6/11            13          88
+33                  ORI   05 31.2   +03.3  6/7.5           2           26
+DELTA               ORI   05 32.0   -00.3  2/6.5           53          360             W/B
+LAMBDA              ORI   05 35.2   +09.9  4/6             4           44              Y/R: FINE REGION
+THETA               ORI   05 35.3   -05.4  5/6/7/8         13/13/17    61/311/342      TRAPEZIUM IN M 42
+IOTA                ORI   05 35.4   -05.9  3/7             11          141
+SIGMA               ORI   05 38.7   -02.6  4/7.5/10/6.5    13/11/42    84/236/61       STRIKING
+ZETA                ORI   05 40.7   -02.0  2/5.5           3           164
+52                  ORI   05 48.0   +06.4  6/6             1           211
+ה 817               ORI   05 54.9   +07.0  8/8             18          73              NEAR BETELGEUSE
+ה 848               ORI   06 08.5   +14.0  8.3/9.0         3           108             IN OPEN CLUSTER NGC 2169
+ה 855               ORI   06 09.0   +02.5  6/7             29          114
+ה 895               ORI   06 20.8   +05.8  8/11            29          58              R/G
+1                   PEG   21 22.1   +19.8  4/8             36          312
+ה 2799              PEG   21 28.8   +11.1  7/7             2           276
+3                   PEG   21 37.7   +06.6  6.5/8.5         39          349             ANOTHER PAIR IN FIELD
+EPSILON             PEG   21 44.2   +09.9  2.5/8.5/11      143/82      321/325
+KAPPA               PEG   21 44.7   +25.6  4.5/10          14          292
+ה 2841              PEG   21 54.4   +19.7  6.5/8           23          110
+ה 2877              PEG   22 14.3   +17.2  6.5/9.5         16          10              Y/B
+ה 2879              PEG   22 14.5   +07.9  6.5/8/9.5       1/66        122/122
+32                  PEG   22 21.3   +28.4  5/9.5           73          127
+ETA                 PEG   22 42.9   +30.3  3/9             91          339
+ה 2978              PEG   23 07.5   +32.9  6/7.5           8           145
+57                  PEG   23 09.5   +08.7  6/10            33          198             Y/W
+ה 2991              PEG   23 13.4   +11.1  6/10            34          359             Y/B
+ה 268               PER   02 29.4   +55.5  7/8             3           131
+THETA               PER   02 44.1   +49.2  4/10            18          303
+ב 9                 PER   02 47.1   +35.6  6.5/8.5         1           181
+ETA                 PER   02 50.7   +55.9  4/8.5           29          301             Y/B
+20                  PER   02 53.8   +38.3  5.5/10          14          237
+TAU                 PER   02 54.3   +52.8  5/10.5          52          106
+ה 331               PER   03 00.8   +52.4  5.5/6.5         12          86
+ה 369               PER   03 17.2   +40.5  6.5/8           3           30              Y/B
+ZETA                PER   03 54.1   +31.8  3/9.5           13          209
+EPSILON             PER   03 57.9   +40.0  3/8             9           9
+Oהה 47              PER   04 21.0   +50.2  7/8             73          327             YR/W
+ה 533               PER   04 24.5   +34.3  6/7.5           20          61
+ה 552               PER   04 31.4   +40.0  6.5/6.5         9           115             W/W:NICE
+h 3390              PHE   00 43.3   -45.2  7.1/9.7         14          313             O/B
+h 3395              PHE   00 45.8   -41.9  8.4/8.9         5.7         91              R/R:MATCHED
+35                  PSC   00 15.0   +08.9  6/7.5           12          149             W/P
+42                  PSC   00 22.4   +13.5  6.5/10          29          324             Y/O
+51                  PSC   00 32.4   +07.0  5/9             28          83
+55                  PSC   00 39.9   +21.5  5.5/8           7           193             Y/B
+65                  PSC   00 49.9   +27.7  6/6             5           297
+PSI                 PSC   01 05.7   +21.5  5/5             30          160             W/W:NICE
+77                  PSC   01 05.8   +05.0  6/6.5           33          83              W/B
+ZETA                PSC   01 13.7   +07.6  4.5/5.5         24          63
+ALPHA               PSC   02 02.0   +02.7  4/5             2           292             BW/BW
+h 647               PSC   02 02.6   +07.6  9/9.5           26          32              COLOR CONTRAST
+ETA                 PSA   22 00.9   -28.5  5.5/6.5         2           116             BW/BW
+BETA                PSA   22 31.5   -32.3  4.5/7.5         30          172             YW/B:FINE
+Dunlop 241          PSA   22 36.6   -31.7  5.8/7.6         90          31              FINE
+h 5356              PSA   22 39.8   -28.3  6.5/7/8         87/3        160/67          O/BW/BW
+GAMMA               PSA   22 52.6   -32.8  4.5/8.5         4           262
+DELTA               PSA   22 56.0   -32.5  4.5/10          5           244
+Dunlop 23           PUP   06 04.8   -48.5  7.2/7.5         3           113             SUPERB
+h 3895              PUP   06 46.7   -47.8  6.9/11          26          64              O/B
+SIGMA               PUP   07 29.2   -43.3  3.5/8.5         22          74              O/W
+h 3973              PUP   07 31.9   -20.9  8.3/9.3         9           38              W/R
+h 269               PUP   07 34.3   -23.5  6/6             10          114
+P                   PUP   07 35.4   -28.4  5/9.5           38          156
+ה 1121              PUP   07 36.6   -14.5  7.9/7.9         7           305             IN OPEN CLUSTER NGC 2422
+KAPPA               PUP   07 38.7   -26.8  4.5/4.5         10          318             W/W :MATCHED (SPECT B8/B5)
+2                   PUP   07 45.5   -14.7  6/7             17          340
+5                   PUP   07 47.9   -12.2  5.5/7.5         2           5
+h 4073              PUP   08 18.3   -37.4  7/7.5           2           176
+Gls 96              PYX   08 28.0   -35.2  6.5/9.5         25          143
+KAPPA               PYX   09 08.1   -25.9  5/10            2           263
+EPSILON             PYX   09 09.9   -30.4  5.5/9.5         18          147
+h 4200              PYX   09 20.7   -30.4  7/8             3           73
+EPSILON             SGE   19 37.3   +16.5  5.5/7.5         89          81
+HN 84               SGE   19 39.5   +16.5  6.5/8.5         28          301             COLOR CONTRAST
+ZETA                SGE   19 49.0   +19.1  5.5/9           8           311             G/B
+THETA               SGE   20 09.9   +20.9  6.5/8.5         12          325
+h 5003              SGR   17 59.1   -30.3  5/7             6           106             R/R
+ב 245               SGR   18 10.0   -30.8  5.5/8           4           352
+ב 132               SGR   18 11.3   -19.9  7/7.5           1           198
+RS                  SGR   18 17.6   -34.1  6/9.5/10        39/94       86/41           MULTIPLE
+ETA                 SGR   18 17.6   -36.8  3/9             4           104
+ב 133               SGR   18 27.7   -26.7  7/7             1           251
+h 5082              SGR   19 03.2   -19.3  6/9.5/11        8/20        88/113          ELEGANT TRIPLE
+h 619               SGR   19 29.9   -27.0  5.5/8.5         8           142
+54                  SGR   19 40.8   -16.3  5.5/8.5         46          42              Y/B
+h 5188              SGR   20 20.5   -29.2  6.5/9/8/10      4/27/106    50/322/332
+2                   SCO   15 53.6   -25.3  5/7.5           3           274
+XI                  SCO   16 04.4   -11.3  5/5.5/7         1/7         358/53          W/W
+BETA                SCO   16 05.4   -19.8  2.5/5           14          23              B/W
+NU                  SCO   16 12.0   -19.5  4/6.5/6.5       1/41        2/336           Y/O
+12                  SCO   16 12.3   -28.4  6.5/8.5         4           75
+SIGMA               SCO   16 21.1   -25.6  3/9             20          273
+ALPHA               SCO   16 29.5   -26.4  1/6.5           3           275             R/G:ANTARES:DIFFICULT
+KAPPA               SCL   00 09.3   -28.0  6/6             1           265
+TAU                 SCL   01 36.1   -29.9  6/7             1           122
+EPSILON             SCL   01 45.6   -25.1  5.5/9.5         5           34
+Howe 93             SCL   23 37.0   -31.9  6.5/10          5           252
+h 5417              SCL   23 44.5   -26.2  6.5/9           9           321
+Dunlop 253          SCL   23 54.4   -27.0  6.5/7           7           269
+ה 2306              SCT   18 22.3   -15.1  7/8             10          220             Y/B
+ה 2325              SCT   18 31.5   -10.8  6/9             12          257
+ב 135               SCT   18 38.0   -14.1  6.5/11          2           186
+DELTA               SCT   18 42.2   -09.1  4.5/10          53          130
+ה 1919              SER   15 12.8   +19.3  6.5/7.5         24          10              Y/W
+ה 1931              SER   15 18.7   +10.3  6.5/7.5         13          170
+5                   SER   15 19.2   +01.8  5/10            11          36              Y/W: IN FIELD WITH M5
+6                   SER   15 21.0   +00.7  5.5/9.5         3           20
+DELTA               SER   15 34.8   +10.5  4/5             4           178             W/W:NICE
+BETA                SER   15 48.5   +15.2  3.5/9           31          265
+ה 1985              SER   15 55.9   -02.2  7/8             6           347
+ה 2007              SER   16 06.0   +13.3  7/8/10.5        37/168      323/138         NICE
+NU                  SER   17 20.8   -12.8  4.5/8.5         46          28              G/L
+h 2814              SER   17 56.3   -15.8  6.5/9           21          157
+ה 2303              SER   18 20.1   -08.0  6.5/9           2           236
+59                  SER   18 27.2   +00.2  5.5/7.5         4           318             Y/G
+ה 2375              SER   18 45.5   +05.5  6.5/6.5         2           116
+THETA               SER   18 56.3   +04.2  4.5/5           22          103             YW/YW
+9                   SEX   09 54.2   +04.9  6.5/9           51          290             R/B
+Aitken 1767         SEX   09 57.7   -01.9  7.5/11          2           19
+ה 1441              SEX   10 31.0   -07.7  6.5/10          3           167
+35                  SEX   10 43.3   +04.7  6.5/7.5         6           236
+40                  SEX   10 49.2   -04.1  7/7.5           2           10
+ה 422               TAU   03 36.8   +00.6  6/8.5           6           260             Y/B
+30                  TAU   03 48.2   +11.2  4.5/9.5         9           59              G/P
+47                  TAU   04 13.9   +09.2  5.5/8           1           351
+PHI                 TAU   04 20.4   +27.3  5/8.5           52          250             R/B
+ב 87                TAU   04 22.3   +20.8  6/9             2           171
+CHI                 TAU   04 22.5   +25.6  5.5/7.5         20          25              B/G
+80                  TAU   04 30.1   +15.5  5.5/8           2           18
+ה 559               TAU   04 33.5   +18.0  7/7             3           276
+ALPHA               TAU   04 35.9   +16.5  1/11            121         34              O/BW:ALDEBARAN
+ה 572               TAU   04 38.5   +27.0  6.5/6.5         4           194
+ה 645               TAU   05 09.7   +28.1  6/8.5           12          27              W/W
+ה 670               TAU   05 16.7   +18.4  7.7/8.2         3           164             B/B
+ה 680               TAU   05 19.2   +20.1  6.1/10          9           204             Y/B
+118                 TAU   05 29.3   +25.1  6/6.5           5           204
+EPSILON             TRI   02 02.9   +33.3  5/11            4           118
+IOTA                TRI   02 12.4   +30.3  5/6.5           4           72              Y/B:COLOR CONTRAST
+ה 232               TRI   02 14.7   +30.4  7.5/7.5         7           246             M:NICE
+ה 239               TRI   02 17.4   +28.7  7/8             14          211             W/W
+ה 285               TRI   02 38.9   +33.4  7/7.5           2           166
+ה 1193              UMA   08 20.7   +72.4  6/9             43          87
+IOTA                UMA   08 59.2   +48.0  3/10            5           16
+SIGMA               UMA   09 10.4   +67.1  5/8.5           2           20              G/O
+ה 1321              UMA   09 14.9   +52.7  7.5/7.5         18          82              Y/B
+Oה 200              UMA   09 25.0   +51.6  6.5/8.5         2           337
+23                  UMA   09 31.5   +63.1  4/9             23          271
+ה 1415              UMA   10 17.9   +71.0  6.5/7           17          167             W/W
+ה 1495              UMA   11 00.1   +58.9  6/8.5           34          37              Y/B
+ה 1520              UMA   11 16.1   +52.8  6.5/8           13          344             Y/W
+XI                  UMA   11 18.2   +31.5  4.5/5           3           129
+NU                  UMA   11 18.5   +33.1  4/10            7           147
+57                  UMA   11 29.1   +39.3  5/8             5           359
+ה 1559              UMA   11 38.8   +64.3  7/8             2           322
+65                  UMA   11 55.1   +46.5  7/8.5/6.5       4/63        40/114          W/Y/W
+ה 1695              UMA   12 56.3   +54.1  6/8             4           283
+ZETA                UMA   13 23.9   +54.9  2.5/4           14          151             W/W: MIZAR-ALCOR 12 MIN AWAY
+ALPHA               UMI   02 30.1   +89.2  2/9             18          218             Y/BW
+ב 799               UMI   13 04.8   +73.0  6.5/8.5         1           250
+h 2682              UMI   13 40.7   +76.8  7/10            26          280
+PI                  UMI   15 29.3   +80.4  6.5/8           31          80              Y/Y
+Hussey 917          UMI   16 43.1   +77.5  6/9.5           3           189
+h 4107              VEL   08 31.4   -39.1  6/8/10          4/31        329/100         W/R
+h 4191              VEL   09 14.4   -43.2  5.3/9.4         6           14              BEAUTIFUL AND DELICATE
+ה 1575              VIR   11 52.0   +08.8  7.5/8           1           17              W
+ה 1627              VIR   12 18.2   -04.0  6.5/7           20          196
+17                  VIR   12 22.6   +05.3  6.5/9           20          337             G/O
+GAMMA               VIR   12 41.7   -01.5  3.5/3.5         5           306             YW/YW:MATCHED:PORRIMA
+ה 1682              VIR   12 51.4   -10.4  6.5/9/11        31/144      301/201         T/B
+ה 1689              VIR   12 55.5   +11.5  7.1/9.4         29          211             Y/G
+THETA               VIR   13 10.1   -05.6  4.5/9           7           343             Y/R
+54                  VIR   13 13.5   -18.9  6/7             5           34              Y/R
+ה 1734              VIR   13 20.7   +02.9  6.5/7.5         1           179
+81                  VIR   13 37.6   -07.9  7.5/7.5         3           40
+84                  VIR   13 43.0   +03.5  5.5/8           3           229
+ה 1788              VIR   13 55.0   -08.0  6.5/7.5         3           91
+Oה 273              VIR   13 56.3   +05.3  8/9/10          1/237       112/236         GALAXY NGC 5363 NEAR
+ה 1833              VIR   14 22.6   -07.8  7/7             6           172
+PHI                 VIR   14 28.2   -02.2  5/9.5           5           110
+2                   VUL   19 17.7   +23.0  5.5/9.5         2           124
+Oהה 181             VUL   19 20.1   +26.7  6/6.5           58          3               R/B
+ה 2521              VUL   19 26.5   +19.9  6/10            27          35
+ה 2653              VUL   20 13.6   +24.3  7/10            3           270
+ב 441               VUL   20 17.5   +29.2  7/11.5          6           64                                               

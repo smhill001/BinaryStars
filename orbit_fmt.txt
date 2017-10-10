@@ -1,0 +1,48 @@
+                                                                                                                                    
+                FOURTH CATALOG OF ORBITS OF VISUAL BINARY STARS                                                                     
+                                                                                                                                    
+                          C.E. Worley and W.D. Heintz                                                                               
+                                                                                                                                    
+                                                                                                                                    
+                           DESCRIPTION OF THE CATALOG                                                                               
+                                                                                                                                    
+       Table 2 lists the orbit catalog, where most of the data presented are                                                        
+identifiable by the column headings. Each orbit requires two lines of data ar-                                                      
+ranged in 11 columns. A brief explanation of the items follows:                                                                     
+                                                                                                                                    
+Column 1   line 1  The Right Ascension for 2000.                                                                                    
+                2  The name(s) of the star, and the components involved.                                                            
+       2        1  The Declination for 2000. An asterisk following this value                                                       
+                   indicates a Note.                                                                                                
+                2  (Continuation of the name, or components, if necessary).                                                         
+       3        1  The ADS number.                                                                                                  
+                2  (Continuation of the name, or components, if necessary).                                                         
+       4        1  The magnitude of component A.                                                                                    
+                2  The spectral type of component A.                                                                                
+       5        1  The magnitude of component B.                                                                                    
+                2  The spectral type of component B. An asterisk following this                                                     
+                   value indicates that the spectral types have been inferred                                                       
+                   from a combined spectrum and a known magnitude difference,                                                       
+                   as previously discussed.                                                                                         
+       6        1  The period in years, P.                                                                                          
+                2  The time of periastron passage, T.                                                                               
+       7        1  The semi-major axis, a, in seconds of arc.                                                                       
+                2  The eccentricity, e.                                                                                             
+       8        1  The inclination, i.                                                                                              
+                2  The longitude of periastron, omega, reckoned from the node
+                   as listed.
+       9        1  The node. An identified ascending node is indicated by an
+                   asterisk following the value.
+                2  The equinox (if any) to which the node refers.                                                                   
+       10       1  The grade, followed by the date of the last observation
+                   used in the computation, when known.
+                2  Inclusive dates for which an ephemeris is given by the                                                           
+                   author.                                                                                                          
+       11       1  The computer of the orbit.                                                                                       
+                2  The reference.                                                                                                   
+                                                                                                                                    
+In addition, an ephemeris has been included for each orbit entry for dates
+1990.0 to 2009.0. The ephemeris gives Date, Position Angle (P.A.), and
+Separation (Sep) calculated from the orbital parameters. It should be noted
+that the "accuracy" of the ephemeris quantities may be less than that
+displayed, especially for orbits of Grade 5.
