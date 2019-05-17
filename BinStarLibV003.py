@@ -140,7 +140,8 @@ class StarOrbitObservations:
     def ObsStats(self):
         import numpy as np
         # http://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html
-        if self.NObs > 3:        
+        print "self.NObs=",self.NObs
+        if self.NObs > 4:        
             SepCoefs=np.polyfit(self.TObs, self.SepObs, 1, \
                         w=1./(np.array(self.SepErr)),cov=True)
             SepFit=SepCoefs[0][0]*np.array(self.TObs)+SepCoefs[0][1]
@@ -162,7 +163,7 @@ class StarOrbitObservations:
         index=0
         BoundSep=np.zeros((2,2))
         BoundPA=np.zeros((2,2))
-        if self.NObs > 3:        
+        if self.NObs > 4:        
             for index in range(0,2):  
                 dSint=SepCoefs[0][1]+sgn[index]*np.sqrt(SepCoefs[1][1,1])
                 dSslp=SepCoefs[0][0]-sgn[index]*np.sqrt(SepCoefs[1][0,0])
@@ -436,7 +437,7 @@ def DrawOrbitPlotV0(StarIdentifierDD, time_fine,X_fine,Y_fine,time_coarse,X_coar
         PrdSepRate=(X_fine[Observations.NObs-1]-X_fine[0]) / (Observations.TObs[Observations.NObs-1]-Observations.TObs[0])
         TimeCornerForText=0.97*(params.T1-params.T0)+params.T0
         VertCornerForText=0.03*(params.X1-params.X0)+params.X0
-        if NumObs >3:
+        if NumObs >4:
             pl.text(TimeCornerForText,VertCornerForText,'O  ='+str(np.mean(Observations.SepObs))[0:5]+' asec\n' \
                             +'P  ='+str(np.mean(X_fine))[0:5]+' asec\n' \
                             +'O-P='+str(np.mean(Observations.SepObs)-np.mean(X_fine))[0:6]+' asec\n\n'\
@@ -482,7 +483,7 @@ def DrawOrbitPlotV0(StarIdentifierDD, time_fine,X_fine,Y_fine,time_coarse,X_coar
         PrdPARate=(Y_fine[Observations.NObs-1]-Y_fine[0]) / (Observations.TObs[Observations.NObs-1]-Observations.TObs[0])
         TimeCornerForText=0.97*(params.T1-params.T0)+params.T0
         VertCornerForText=0.03*(params.Y1-params.Y0)+params.Y0
-        if NumObs >3:
+        if NumObs >4:
             pl.text(TimeCornerForText,VertCornerForText,'O  ='+str(np.mean(Observations.PAObs))[0:5]+' deg\n' \
                             +'P  ='+str(np.mean(Y_fine))[0:5]+' deg\n' \
                             +'O-P='+str(np.mean(Observations.PAObs)-np.mean(Y_fine))[0:6]+' deg\n\n'\
